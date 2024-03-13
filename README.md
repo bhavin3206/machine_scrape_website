@@ -1,4 +1,4 @@
-# Machine Scrape Website
+# Machine Detailes Scrape Website
 
 ## Introduction
 `machine_scrape_website` is a Python-based project designed to automate the process of scraping information from websites. It uses various libraries to efficiently extract data, making it easier for users to collect and process information from the internet.
