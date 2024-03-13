@@ -13,7 +13,7 @@ To install `machine_scrape_website`, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yourusername/machine_scrape_website-main.git
+   git clone https://github.com/bhavin3206/machine_scrape_website-main.git
    ```
 2. Navigate to the project directory:
    ```
@@ -35,4 +35,4 @@ Don't forget to give the project a star! Thanks again!
 This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE file for details.
 
 ## Contact
-If you have any questions or comments about scraping, please feel free to contact me at bhavinpatel99987@email.com.
+please feel free to contact me at bhavinpatel99987@email.com.
